@@ -1,0 +1,6 @@
+{
+  "name": "Cinematic Potter Hub",
+  "description": "An official-looking, dark, cinematic, and responsive website for the Harry Potter film series.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
